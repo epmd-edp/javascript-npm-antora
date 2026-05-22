@@ -5,6 +5,6 @@
     "build": "antora docs-site/antora-playbook.yml"
   },
   "devDependencies": {
-    "antora": "^3.1.10"
+    "antora": "^3.1.14"
   }
 }
